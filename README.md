@@ -39,6 +39,16 @@ The system consists of two major components:
 
 ---
 
+## 🔍 Key Highlights
+
+- Semantic query understanding using Sentence-BERT embeddings
+- Dual classifier system (Intent + Topic)
+- Dynamic difficulty adjustment logic
+- Student performance-aware progression system
+- Modular and scalable architecture
+
+---
+
 ## 📂 Project Structure
 
 ```
